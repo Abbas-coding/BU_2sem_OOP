@@ -10,6 +10,5 @@ public class Second_Exercise {
         System.out.println("Semester: Second");
         
         
-        
     }
 }
