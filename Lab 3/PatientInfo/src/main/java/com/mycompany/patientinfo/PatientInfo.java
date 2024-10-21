@@ -42,12 +42,12 @@ class Patient{
     public void Print_Receipt(){
         System.out.println("---------Patient's Receipt-------");
         System.out.println("Patient's Number: " + pNumber);
-        System.out.println("Patient's Name: " + pNumber);
-        System.out.println("Patient's Age: " + pNumber);
-        System.out.println("Patient's Email: " + pNumber);
-        System.out.println("Patient's Contact: " + pNumber);
-        System.out.println("Patient's Complain: " + pNumber);
-        System.out.println("Patient's Bill: " + pNumber);
+        System.out.println("Patient's Name: " + pName);
+        System.out.println("Patient's Age: " + pAge);
+        System.out.println("Patient's Email: " + pEmail);
+        System.out.println("Patient's Contact: " + pContact);
+        System.out.println("Patient's Complain: " + pComplain);
+        System.out.println("Patient's Bill: " + pBill);
         
     }
     

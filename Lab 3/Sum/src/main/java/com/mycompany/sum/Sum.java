@@ -39,10 +39,12 @@ public class Sum {
     
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
+        System.out.println("Enter Number to Compute Odd Number Sum: ");
         int inp = s.nextInt();
         int result= computeOddSum(inp);
         System.out.println("result " + result);
         
+        System.out.println("Enter Number to Compute Even Number Sum: ");
         int inp1 = s.nextInt();
         int result1= computeEvenSum(inp1);
         System.out.println("result " + result1);

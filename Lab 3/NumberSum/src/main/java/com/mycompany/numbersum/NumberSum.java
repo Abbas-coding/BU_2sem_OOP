@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class NumberSum {
 
     static int numberSum(int x, int y){
-        if(y<1x){
+        if(y<x){
            return 0; 
         }
         else{

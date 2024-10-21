@@ -16,7 +16,7 @@ public class Product {
         System.out.println("Enter a Number: ");
         Scanner s = new Scanner(System.in);
         int a = s.nextInt();
-        int result = product(a);
+        long result = product(a);
         System.out.println("Result: " + result);
     }
 }
