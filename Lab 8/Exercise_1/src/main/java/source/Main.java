@@ -3,10 +3,10 @@ package source;
 public class Main {
     public static void main(String[] args) {
 
-    Employee firstEmployee = new SalariedEmployee("Usman", "Ali", "111-11-1111",800.00);
-    Employee secondEmployee = new CommissionEmployee("Atif", "Aslam", "222-22-2222", 10000, 0.06);
-    Employee thirdEmployee = new BasePlusCommissionEmployee("Rana", "Naseeb", "333-33-3333", 5000, 0.04, 300);
-    Employee fourthEmployee = new HourlyEmployee("Renson", "Isaac", "444-44-4444", 16.75, 40);
+    Employee firstEmployee = new SalariedEmployee("hafeez", "mushtaq", "111-11-1111",8050.00);
+    Employee secondEmployee = new CommissionEmployee("Mohammad", "Saleem", "222-22-2222", 120000, 0.06);
+    Employee thirdEmployee = new BasePlusCommissionEmployee("Ashar", "Noman", "333-33-3333", 52000, 0.04, 300);
+    Employee fourthEmployee = new HourlyEmployee("Saqib", "Adnan", "444-44-4444", 16.75, 403);
 
     // polymorphism: calling toString() and earning() on Employee's reference
     System.out.println(firstEmployee);
