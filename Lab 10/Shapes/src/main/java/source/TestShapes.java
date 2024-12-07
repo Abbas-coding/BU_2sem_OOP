@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class TestShapes {
     public static Shape[] createShape() {final int SIZE
-            = 5;
+            = 3;
         final double DIMENSION = 100;
         final int NUMBEROFSHAPES = 4;
         Random generator = new Random();
