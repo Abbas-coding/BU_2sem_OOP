@@ -1,0 +1,3 @@
+Salman,Cs,13490,23845,Teacher,active
+Updated_Laiba,IT,24940,23975,Professor,inactive
+Updated_Furqan,AI,40270,23856,Student-Advisor,active
