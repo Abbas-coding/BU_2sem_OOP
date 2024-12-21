@@ -34,5 +34,8 @@ build/
 ### VS Code ###
 .vscode/
 
+/UCanAccess-5.0.1.bin/
+
+
 ### Mac OS ###
 .DS_Store
